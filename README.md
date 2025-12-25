@@ -32,7 +32,7 @@
 
 ### 下载安装
 
-前往 [Releases](https://github.com/RK-SS/Memo-notes/releases) 页面下载最新版本：
+前往 [Releases](https://github.com/RK-SS/Memo-record/releases) 页面下载最新版本：
 
 - **Windows**: `备忘记事录.exe` (便携版，无需安装)
 - **macOS**: `备忘记事录.dmg`
